@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { Button, Form, Input, InputNumber, notification, Radio } from 'antd';
 import { NotificationPlacement } from 'antd/lib/notification';
 import { collection } from 'firebase/firestore';
